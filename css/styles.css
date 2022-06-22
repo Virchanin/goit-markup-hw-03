@@ -1,0 +1,197 @@
+
+body{
+    font-family: "Roboto",sans-serif;
+    color: rgba(33, 33, 33, 1);
+}
+/* Верхняя линия */
+.logo{
+   text-decoration: none;
+   font-family: "Raleway",sans-serif ;
+   font-weight: 700;
+   font-size: 26px;
+   line-height: 1.19;
+   letter-spacing: 0.03em;
+   color: #2196F3
+}
+
+.logo-style{
+    color: #000;
+}
+
+.list-dek{
+    list-style: none;
+}
+
+.link-dek{
+    text-decoration: none;
+}
+
+.nav-link{
+   font-weight: 500;
+   font-size: 14px;
+   line-height: 1.14;
+   letter-spacing: 0.02em;
+   color: #212121;
+}
+.nav-link:hover{
+    color: #2196F3;
+}
+
+.list-link{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: rgba(117, 117, 117, 1);
+}
+.list-link:hover{
+    color: rgba(33, 150, 243, 1)
+}
+
+/* Шапка */
+
+.section-main{
+    background-color: rgb(47,48,58);
+}
+
+.slogan{
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    color: #FFFFFF;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.button{
+    font-family: inherit;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.9;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+    background-color: #188CE8;
+}
+
+/* Особенности */
+
+.item-subtitle{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.subtitle-lead{
+    font-size: 14px;
+    line-height: 1.7;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+/* Чем мы занимаемся */
+
+.subtitle{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.66;
+    text-align: center;
+    letter-spacing: 0.03em;
+
+}
+
+/* Наша команда */
+
+.sektion-team{
+    background-color: rgba(245, 244, 250, 1)    ;
+}
+
+.author-name{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.9;
+    letter-spacing: 0.03em;
+}
+
+.author-skills{
+    font-size: 16px;
+    line-height: 1.9;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+/* Портфолио */
+
+.button-item{
+    cursor: pointer;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+    letter-spacing: 0.03em;
+    color: rgba(33, 33, 33, 1);
+    background: rgb(245,244,250);
+}
+
+.button-item:hover,
+.button-item:active{
+    color: rgb(245,244,250);
+   background:rgba(33, 150, 243, 1)
+}
+
+.img-subtitle{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+}
+
+.img-desc{
+    font-size: 16px;
+    line-height: 1.9;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+/* Подвал */
+
+.footer{
+    background-color: rgb(47,48,58);   
+}
+
+.logo-footer{
+    text-decoration: none;
+    font-family: "Raleway",sans-serif ;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1,19;
+    letter-spacing: 0.03em;
+    color: #2196F3
+}
+
+.logo-color{
+    color: #FFFFFF;
+}
+
+.adress{
+    font-style: normal;
+}
+
+.footer-adress{
+    font-size: 14px;
+    line-height: 1.7;
+    color: #FFFFFF;
+    letter-spacing: 0.03em;
+}
+
+.footer-link{
+    font-size: 14px;
+    line-height: 1.7;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.footer-link:hover{
+    color: rgba(33, 150, 243, 1)
+}
